@@ -1,0 +1,24 @@
+# Python & OS
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
+
+# Dataset files
+*.wav
+*.mp3
+*.npz
+*.npy
+
+# Model Checkpoints
+*.pth
+*.pt
+snapshots/
+best_model.pth
+
+# Logs
+logs/
+runs/
+
+# Jupyter
+.ipynb_checkpoints/
