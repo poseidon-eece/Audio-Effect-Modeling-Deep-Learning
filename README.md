@@ -4,7 +4,7 @@ This repository contains the implementation of my undergraduate thesis at the **
 Note: This project is currently a Work in Progress (WIP), full thesis document upload soon
 
 ## Overview
-The goal is to map "clean" guitar signals to "processed" (overdrive/distortion) signals using the [EGFX Dataset](https://egfxset.github.io/).
+The goal is to map "clean" guitar signals to "processed" (overdrive) signals using the [EGFX Dataset](https://egfxset.github.io/).
 
 ## Architectures & Loss Functions
 We implemented and compared three different models:
